@@ -1,1 +1,5 @@
-
+[
+  {"timestamp":"2026-08-06T12:03:00Z","service":"payments","priority":"critical","customer_impact":true},
+  {"timestamp":"2026-08-06T12:08:00Z","service":"payments","priority":"high","customer_impact":false},
+  {"timestamp":"2026-08-06T12:20:00Z","service":"catalog","priority":"medium","customer_impact":false}
+]
